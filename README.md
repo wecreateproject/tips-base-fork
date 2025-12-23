@@ -1,7 +1,7 @@
 ![Base](./docs/logo.png)
 
 # TIPS - Transaction Inclusion & Prioritization Stack
-
+---------
 > [!WARNING]
 > This repository is an experiment to enable bundles, transaction simulation and transaction tracing for Base. 
 > It's being used to explore ideas and experiment. It is currently not production ready.
